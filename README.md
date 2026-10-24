@@ -2,7 +2,7 @@
 
 영어를 처음 배우는 아이들을 위한 그림·소리 단어 게임이에요. 영어를 몰라도 그림을 누르면 발음이 나와요.
 
-**바로 하기: https://english-playground.vercel.app**
+**바로 하기: https://english-playground-two.vercel.app**
 
 ## 놀이 방법
 
